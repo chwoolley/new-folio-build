@@ -11,7 +11,9 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
-    <p>Fuck off you fuckkikksdjfhdskfhdkfjndskfkjdsfnh</p>
+    <p>Fuck off you fuckkikksdjfhdskfhdkfjndskfkjdsfnh
+      Fuck you
+    </p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
